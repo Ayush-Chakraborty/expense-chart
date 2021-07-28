@@ -1,0 +1,14 @@
+.item_edit{
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.item_edit__btn{
+    background-color: transparent;
+    color: white;
+    margin: 0px 10px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    
+}

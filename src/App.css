@@ -1,0 +1,15 @@
+:root{
+    --red:#bc4646;
+    --blue:#8677e1;
+    --white:rgba(255,255,255,0.8);
+
+}
+
+.App{
+    display: flex;
+    align-items: center;
+    max-height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+    flex-direction: column;
+}

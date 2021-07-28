@@ -1,0 +1,39 @@
+.newExpense{
+    width: 100%;
+    border-bottom: 1px rgb(18, 87, 87) solid;
+}
+.newExpense__section{
+    width: 50%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+.newExpense__section input{
+    margin-left: 15px;
+    height: 40px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    width: inherit;
+    padding: 10px;
+    font-size: 1.1rem;
+    
+}
+.newExpense__section label{
+    color: white;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+.newExpense_btn{
+    height: 40px;
+    padding: 10px;
+    font-size: 1rem;
+    background-color: #ffef6e;
+    box-shadow: 4px 4px #ffee6e9d;
+    font-weight:500;
+}
+.newExpense_btn:active{
+    transform: translate(4px,4px);
+    box-shadow: 0px 0px;
+}

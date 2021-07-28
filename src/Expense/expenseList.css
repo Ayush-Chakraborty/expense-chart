@@ -1,0 +1,10 @@
+.list{
+    padding: 20px;
+    margin: 10px 30px;
+    width: 900px;
+    min-width: min(90vw,600px);
+    height: auto;
+    overflow-y:auto;
+    overflow-x: hidden;
+    background-color: rgb(23 ,182 ,138, 0.78);
+}

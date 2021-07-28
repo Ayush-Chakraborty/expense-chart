@@ -1,0 +1,9 @@
+.total{
+    padding: 10px 0px;
+    margin: 5px 25px;
+    display: flex;
+    justify-content: space-between;
+    font-weight: 600;
+    font-size: 1.3rem;
+    border-top: 1px solid black;
+}

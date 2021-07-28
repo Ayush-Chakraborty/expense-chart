@@ -1,0 +1,14 @@
+.error_msg{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+}
+.error_msg__body{
+    color: yellow;
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+.error_msg__icon{
+    margin-bottom: -4px;
+}
